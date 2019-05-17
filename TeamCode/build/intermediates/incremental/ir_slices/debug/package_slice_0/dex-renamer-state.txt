@@ -1,0 +1,4 @@
+#Fri Mar 22 12:26:29 EET 2019
+base.0=/Users/mihai/Documents/Projects/Android/ftc_demo/TeamCode/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
